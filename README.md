@@ -23,7 +23,3 @@ A Pokémon card game developed using React, JavaScript, and Three.js. The game f
 - JavaScript
 - Three.js
 - PokeAPI
-
-## Style:
-
-The game features visually stunning 3D models sourced from the PokeAPI, offering an immersive experience. React and JavaScript have been utilized to create a visually engaging interface, and Three.js has been implemented for the incorporation of 3D elements, providing a captivating environment for the Pokémon battles.
